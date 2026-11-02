@@ -16,7 +16,7 @@ const projects = [
   {
     title: "Movie Discovery",
     description: "A web app for searching and discovering movies, browsing details, ratings, and recommendations.",
-    image: "images/projects/movie-discovery.svg",
+    image: "images/projects/movie-discovery.png",
     tags: ["JavaScript", "HTML/CSS", "REST API"],
     liveUrl: "https://carson-r01.github.io/MovieDiscovery/",
     repoUrl: "https://github.com/carson-r01/MovieDiscovery"
@@ -24,7 +24,7 @@ const projects = [
   {
     title: "Music Visualizer",
     description: "An audio visualizer that reacts to music in real time, rendering animated visuals synced to sound.",
-    image: "images/projects/music-visualizer.svg",
+    image: "images/projects/music-visualizer.png",
     tags: ["JavaScript", "Web Audio API", "Canvas"],
     liveUrl: "https://carson-r01.github.io/MusicVisualizer/",
     repoUrl: "https://github.com/carson-r01/MusicVisualizer"
